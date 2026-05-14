@@ -1,0 +1,12 @@
+{
+  "name": "brillant-nettoyage",
+  "version": "1.0.0",
+  "description": "Professional cleaning, appliance repair, and moving services in Montreal",
+  "author": "Brillant Nettoyage",
+  "keywords": ["cleaning", "repair", "moving", "montreal", "services"],
+  "scripts": {
+    "dev": "npx http-server .",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "git push -u origin main"
+  }
+}
